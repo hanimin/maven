@@ -1,0 +1,86 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<section name="Workbench">
+	<section name="SmartImportWizard">
+		<item key="SmartImportRootWizardPage.STORE_HIDE_ALREADY_OPEN" value="false"/>
+		<item key="SmartImportRootWizardPage.STORE_CLOSE_IMPORTED" value="false"/>
+		<item key="SmartImportRootWizardPage.STORE_NESTED_PROJECTS" value="true"/>
+		<item key="SmartImportRootWizardPage.STORE_CONFIGURE_NATURES" value="true"/>
+		<list key="org.eclipse.ui.internal.wizards.datatransfer.SmartImportRootWizardPage.knownSources">
+			<item value="C:\maven-kimminseon\bookShop02"/>
+			<item value="C:\Users\Administrator\Downloads\bookShop4\bookShop02"/>
+			<item value="C:\Users\Administrator\Downloads\bookShop4"/>
+			<item value="C:\maven-kimminseon\bookShop01"/>
+		</list>
+	</section>
+	<section name="ExternalProjectImportWizard">
+		<item key="WizardProjectsImportPage.STORE_NESTED_PROJECTS" value="false"/>
+		<item key="WizardProjectsImportPage.STORE_COPY_PROJECT_ID" value="false"/>
+		<item key="WizardProjectsImportPage.STORE_ARCHIVE_SELECTED" value="true"/>
+		<item key="WizardProjectsImportPage.STORE_CLOSE_CREATED_PROJECTS_ID" value="false"/>
+		<item key="WizardProjectsImportPage.STORE_HIDE_CONFLICTING_PROJECTS_ID" value="false"/>
+		<list key="WizardProjectsImportPage.STORE_DIRECTORIES">
+			<item value=""/>
+			<item value="C:\maven-kimminseon\bookShop01"/>
+		</list>
+		<list key="WizardProjectsImportPage.STORE_ARCHIVES">
+			<item value="C:\Users\Administrator\Documents\카카오톡 받은 파일\20230419_03_메인,이벤트 변경.zip"/>
+			<item value="C:\Users\Administrator\Documents\카카오톡 받은 파일\20230418_02_은빈.zip"/>
+			<item value="C:\Users\Administrator\Documents\카카오톡 받은 파일\20230418_01_관리자.zip"/>
+			<item value="C:\Users\Administrator\Documents\카카오톡 받은 파일\20230417_03_민선메인페이지취합.zip"/>
+			<item value="C:\Users\Administrator\Documents\카카오톡 받은 파일\20230413_02_민선취합.zip"/>
+			<item value="C:\Users\Administrator\Documents\카카오톡 받은 파일\20230411_03_민선언니 1대1문의,이미지등록취합.zip"/>
+			<item value="C:\Users\Administrator\Desktop\20230406_01_orderXml,tiles,jsp변경.zip"/>
+			<item value="C:\Users\Administrator\Desktop\0405qna하는중 안합쳣음!중요함.zip"/>
+			<item value="C:\Users\Administrator\Documents\카카오톡 받은 파일\20230405_01_민선언니줄겸.zip"/>
+			<item value="C:\Users\Administrator\Documents\카카오톡 받은 파일\04-05.zip"/>
+			<item value="C:\Users\Administrator\Documents\카카오톡 받은 파일\20230330_05_orderJsp수정.zip"/>
+			<item value="C:\Users\Administrator\Documents\카카오톡 받은 파일\20230330_03_모두앞에서백업.zip"/>
+			<item value="C:\Users\Administrator\Documents\카카오톡 받은 파일\2023-03-30(최종 수정본).zip"/>
+			<item value="C:\Users\Administrator\Documents\카카오톡 받은 파일\20230329_06_민선수정, 은빈이벤트수정.zip"/>
+			<item value="C:\Users\Administrator\Documents\카카오톡 받은 파일\20230329_05_오늘팀취합.zip"/>
+			<item value="C:\Users\Administrator\Documents\카카오톡 받은 파일\20230328_07_영민패키지추가.zip"/>
+			<item value="C:\Users\Administrator\Desktop\0328아침작업전.zip"/>
+			<item value="C:\Users\Administrator\Documents\카카오톡 받은 파일\20230327_02_한솔, 은빈.zip"/>
+			<item value="C:\Users\Administrator\Documents\카카오톡 받은 파일\20230324_01_아침취합.zip"/>
+			<item value="C:\Users\Administrator\Documents\카카오톡 받은 파일\20230323_03_jsp명명 (1).zip"/>
+		</list>
+	</section>
+	<section name="org.eclipse.text.quicksearch.internal.ui.QuickSearchDialog.DIALOG_SETTINGS">
+		<item key="LAST_QUERY" value=""/>
+		<item key="PATH_FILTER" value=""/>
+		<item key="CASE_SENSITIVE" value="true"/>
+		<item key="KEEP_OPEN" value="false"/>
+		<list key="COLUMN_WIDTHS">
+			<item value="40"/>
+			<item value="544"/>
+			<item value="490"/>
+		</list>
+		<list key="SASH_WEIGHTS">
+			<item value="714"/>
+			<item value="285"/>
+		</list>
+		<section name="DialogBoundsSettings">
+			<item key="DIALOG_HEIGHT" value="676"/>
+			<item key="DIALOG_WIDTH" value="1116"/>
+			<item key="DIALOG_X_ORIGIN" value="426"/>
+			<item key="DIALOG_Y_ORIGIN" value="299"/>
+			<item key="DIALOG_FONT_NAME" value="1|맑은 고딕|9.0|0|WINDOWS|1|-12|0|0|0|400|0|0|0|1|0|0|0|0|맑은 고딕"/>
+		</section>
+	</section>
+	<section name="org.eclipse.ui.dialogs.FilteredResourcesSelectionDialog">
+		<item key="ShowStatusLine" value="true"/>
+		<item key="History" value="&lt;?xml version=&quot;1.0&quot; encoding=&quot;UTF-8&quot;?&gt;&#x0D;&#x0A;&lt;History&gt;&#x0D;&#x0A;&lt;historyRootNode/&gt;&#x0D;&#x0A;&lt;/History&gt;"/>
+		<item key="ShowDerived" value="false"/>
+		<item key="FilterByLocation" value="false"/>
+		<item key="WorkingSet" value="&lt;?xml version=&quot;1.0&quot; encoding=&quot;UTF-8&quot;?&gt;&#x0D;&#x0A;&lt;workingSet workingSetName=&quot;&quot;/&gt;"/>
+		<section name="DialogBoundsSettings">
+			<item key="DIALOG_HEIGHT" value="500"/>
+			<item key="DIALOG_WIDTH" value="600"/>
+			<item key="DIALOG_X_ORIGIN" value="668"/>
+			<item key="DIALOG_Y_ORIGIN" value="195"/>
+			<item key="DIALOG_FONT_NAME" value="1|맑은 고딕|9.0|0|WINDOWS|1|-12|0|0|0|400|0|0|0|1|0|0|0|0|맑은 고딕"/>
+		</section>
+	</section>
+	<section name="NewWizardAction">
+	</section>
+</section>
